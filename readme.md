@@ -6,22 +6,14 @@ width="200" hspace="10" vspace="10">
 
 Medicine Mart, your premier destination for hassle-free healthcare shopping! Our Flutter app provides a user-friendly experience for purchasing a wide range of medicines, vitamins, and health essentials. Enjoy special offers and exclusive discounts, making quality healthcare affordable. With a secure and seamless e-commerce platform, Medicine Mart ensures a convenient and reliable shopping experience. Elevate your well-being effortlessly – download the Medicine Mart app now and take the first step towards a healthier, happier you!
 
-<!-- <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.gpl.gpl_chemist_app">
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.medicine_mart.medicine_mart_app">
     <img alt="Get it on Google Play"
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>  
-        </p> -->
-
-<h5>**The app is under devlopment , will available soon on play store.** </h5>
-
-<a href="">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://github.com/musfique113/medicine-mart/assets/53111065/d1998bc6-94ae-4b47-8464-a4a264e0f763" />
-</a>  
         </p>
+
 
 
 ## Screenshots
