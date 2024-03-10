@@ -17,12 +17,10 @@ Medicine Mart, your premier destination for hassle-free healthcare shopping! Our
 
 
 ## Screenshots
-<img src="https://github.com/musfique113/medicine-mart/assets/53111065/34e883f7-4642-4f6a-b85d-0e2aff70abed" alt="Screenshot 3" height="400" width="sdfadsdfadsf">
-<img src="https://github.com/musfique113/medicine-mart/assets/53111065/2b1a5470-db8f-4bb0-9dd4-57bcc7a34a60" alt="Screenshot 11" height="400" width="sdfadsdfadsf">
+<img src="https://github.com/musfique113/medicine-mart/assets/53111065/56786dc7-8ca1-43ff-aaff-ba877ededd07" alt="Screenshot 3" height="400" width="sdfadsdfadsf">
 <img src="https://github.com/musfique113/medicine-mart/assets/53111065/70075b1b-3e9f-4f59-bfed-e69aba1678d4" alt="Screenshot 11" height="400" width="sdfadsdfadsf">
 <img src="https://github.com/musfique113/medicine-mart/assets/53111065/a6b82448-4f54-4514-bbec-8f9c450b9896" alt="Screenshot 11" height="400" width="sdfadsdfadsf">
-<img src="https://github.com/musfique113/medicine-mart/assets/53111065/3cce4a69-10b7-429b-9b31-18a9a6b01e13" alt="Screenshot 9" height="400" width="sdfadsdfadsf">
-<img src="https://github.com/musfique113/medicine-mart/assets/53111065/97229451-c70e-4f24-b53f-c2e8a88089cd" alt="Screenshot 1" height="400" width="sdfadsdfadsf">
+<img src="https://github.com/musfique113/medicine-mart/assets/53111065/728f6e0c-a9e8-45cd-a37f-5618c9d0da8e" alt="Screenshot 9" height="400" width="sdfadsdfadsf">
 <img src="https://github.com/musfique113/medicine-mart/assets/53111065/f5cec798-5a5a-4612-ae96-e8223e285f4c" alt="Screenshot 4" height="400" width="sdfadsdfadsf">
 <img src="https://github.com/musfique113/medicine-mart/assets/53111065/0fdd75ec-83fa-4e22-8ee2-b4a5f7e08be2" alt="Screenshot 5" height="400" width="sdfadsdfadsf">
 <img src="https://github.com/musfique113/medicine-mart/assets/53111065/3ff1909e-32cd-41f1-a6e9-b2cf30ccd0b2" alt="Screenshot 6" height="400" width="sdfadsdfadsf">
